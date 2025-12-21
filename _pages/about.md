@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at the State Key Laboratory of Integrated Chips and Systems, Fudan University, supervised by [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) and [Prof. Wai-shing Luk](https://scholar.google.com/citations?hl=zh-CN&user=zVrDetsAAAAJ). I received my B.S. degree in Electronic Information Science and Technology from Nanjing University of Aeronautics and Astronautics in 2021, supervised by [Prof. Xin Chen](https://faculty.nuaa.edu.cn/xchen/zh_CN/index.htm).
+I am a final-year PhD student at the State Key Laboratory of Integrated Chips and Systems, Fudan University, supervised by [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) and [Prof. Wai-shing Luk](https://scholar.google.com/citations?hl=zh-CN&user=zVrDetsAAAAJ). I received my B.S. degree in Electronic Information Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA) in 2021, supervised by [Prof. Xin Chen](https://faculty.nuaa.edu.cn/xchen/zh_CN/index.htm). My research interests include various reconfigurable architectures(e.g., FPGA, CGRA) and their software toolchain(e.g., CGRA compiler, FPGA CAD), system-on-chip design.
+
+- **Research topics**: Coarse-grained reconfigurable architectures (CGRA)
 
 A data-driven personal website
 ======
