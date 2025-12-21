@@ -33,4 +33,5 @@ IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024.
 **TRAM: An Open-Source Template-based Reconfigurable Architecture Modeling Framework.** Yunhui Qiu, Yuhang Cao, **Yuan Dai**, Wenbo Yin, Lingli Wang. International Conference on Field-Programmable Logic and Applications (FPL), 2022.
 ## 2021
 - **APIR-DSP: An Approximate PIR-DSP Architecture for Error-Tolerant Applications.** **Yuan Dai=**, Simin Liu=, Yao Lu=, Hao Zhou, Seyed Ramin Rasoulinezhad, Philip H. W. Leong, Lingli Wang. International Conference on Field-Programmable Technology (ICFPT), 2021.
+- **Effectiveness Evaluation of Hardware Design Based on Vivado HLS. (In Chinese)** **Yuan Dai**, Yuxin Bai, Wei Zhang, Xin Chen. Computer Knowledge and Technology, 2021.
 
