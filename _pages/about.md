@@ -48,7 +48,7 @@ IEEE International Symposium on Field-Programmable Custom Computing Machines (FC
 
 Reviewers 
 ======
-Secondary Reviewer: JSA'24, CGRA4HPC'24
+**Secondary Reviewer:** JSA'24, CGRA4HPC'24
 
 
 Awards 
