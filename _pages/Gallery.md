@@ -4,6 +4,14 @@ title: "Gallery"
 author_profile: true
 layout: single
 ---
+## 2025-03
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="/images/mls.jpg" width="50%">
+  <img src="/images/mlsjp.jpg" width="50%">
+</div>
+
+Completed my first half marathon with a time of 2:09. Looking forward to breaking my personal best (PB) in the future!
 
 ## 2023-05
 
@@ -12,6 +20,7 @@ layout: single
   <img src="/images/lqsjz.jpg" width="32%">
   <img src="/images/lqsjb.jpg" width="32%">
 </div>
-Together with my labmates, we won third place in the college 3v3 basketball tournament for the second time. Congratulations to the whole team!
+
+Together with my labmates, we won third place in the college 3v3 basketball tournament for the second time (last time was at 2021). Congratulations to the whole team!
 
 
