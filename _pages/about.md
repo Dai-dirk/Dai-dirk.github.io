@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at the State Key Laboratory of Integrated Chips and Systems, Fudan University, supervised by [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) and [Prof. Wai-shing Luk](https://scholar.google.com/citations?hl=zh-CN&user=zVrDetsAAAAJ). I received my B.S. degree in Electronic Information Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA) in 2021, supervised by [Prof. Xin Chen](https://faculty.nuaa.edu.cn/xchen/zh_CN/index.htm). 
+I am a final-year PhD student at the State Key Laboratory of Integrated Chips and Systems, Fudan University, supervised by [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) and [Prof. Wai-shing Luk](https://scholar.google.com/citations?hl=zh-CN&user=zVrDetsAAAAJ). I received my B.S. degree in Electronic Information Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA) in 2021, supervised by [Prof. Xin Chen](https://faculty.nuaa.edu.cn/xchen/zh_CN/index.htm). I have published papers as the first author in several top-tier journals and conferences.
 
 My research interests mainly include:
 
