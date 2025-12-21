@@ -19,7 +19,9 @@ My research interests mainly include:
 
 Selected Publication
 ======
--
+-**[TC]** COFFA: A Co-Design Framework for Fused-Grained Reconfigurable Architecture Towards Efficient Irregular Loop Handling. 
+**Yuan Dai**, Xuchen Gao, Yunhui Qiu, Jingyuan Li, Yuhang Cao, Yiqing Mao, Sichao Chen, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
+IEEE Transactions on Computers (TC), 2025.
 
 
 
