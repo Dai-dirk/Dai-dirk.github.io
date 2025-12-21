@@ -19,9 +19,30 @@ My research interests mainly include:
 
 Selected Publication
 ======
--**[TC]** COFFA: A Co-Design Framework for Fused-Grained Reconfigurable Architecture Towards Efficient Irregular Loop Handling. 
+- **[TC]** [COFFA: A Co-Design Framework for Fused-Grained Reconfigurable Architecture Towards Efficient Irregular Loop Handling.](https://ieeexplore.ieee.org/document/11062918) 
 **Yuan Dai**, Xuchen Gao, Yunhui Qiu, Jingyuan Li, Yuhang Cao, Yiqing Mao, Sichao Chen, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
 IEEE Transactions on Computers (TC), 2025.
+
+- **[TCAD]** [Dependency-Aware Data Parallelism on Spatial CGRA via Constraint Satisfaction and Graph Coloring.](https://ieeexplore.ieee.org/document/11296830) 
+**Yuan Dai**, Xuchen Gao, Huan Lin, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2025.
+
+- **[TVLSI]** [HETA: A Heterogeneous Temporal CGRA Modeling and Design Space Exploration via Bayesian Optimization.](https://ieeexplore.ieee.org/document/10374147) 
+**Yuan Dai**, Jingyuan Li, Qilong Zhu, Yunhui Qiu, Yihan Hu, Wenbo Yin, Lingli Wang. 
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024.
+
+- **[ASP-DAC]** [Towards Efficient Data Parallelism on Spatial CGRA via Constraint Satisfaction and Graph Coloring.](https://dl.acm.org/doi/10.1145/3658617.3697544) 
+**Yuan Dai**, Xuchen Gao, Chen Shen, Bingbing Peng, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
+ASP-DAC, 2025.
+
+- **[FPT]** [APIR-DSP: An Approximate PIR-DSP Architecture for Error-Tolerant Applications.](https://ieeexplore.ieee.org/document/9609927) 
+**Yuan Dai=**, Simin Liu=, Yao Lu=, Hao Zhou, Seyed Ramin Rasoulinezhad, Philip H. W. Leong, Lingli Wang. 
+International Conference on Field-Programmable Technology (ICFPT), 2021.
+
+
+- **[FCCM]** [UPTRA: An Ultra-Parameterized Temporal CGRA Modeling and Optimization.](https://ieeexplore.ieee.org/document/10171542)
+**Yuan Dai**, Yunhui Qiu, Qilong Zhu, Jingyuan Li, Wenbo Yin, Lingli Wang. 
+IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2023.
 
 
 
