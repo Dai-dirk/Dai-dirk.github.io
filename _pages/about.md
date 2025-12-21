@@ -14,7 +14,7 @@ My research interests mainly include:
 - **Reconfigurable Architecture: Hardware**: Coarse-grained reconfigurable architectures (CGRA), Field Programmable Gate Array (FPGA)
 - **Reconfigurable Architecture: Software**: CGRA Compiler (e.g., LLVM-based Front-end, CGRA Mapping), FPGA CAD (e.g., Synthesis flow for DSP block)
 - **Approximate Computing**: Transcendental Function Approximation and Hardware Implementation
-- **System on Chip Design**: CPU-Accelerator System
+- **System on Chip Design**: CPU-Accelerator Heterogeneous System
 
 **I am currently on the job market and open to research and industrial positions in computer architecture and accelerator design.** 
 
