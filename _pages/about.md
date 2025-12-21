@@ -18,7 +18,7 @@ My research interests mainly include:
 
 **I am currently on the job market and open to research and industrial positions in computer architecture and accelerator design.** 
 
-Selected Publication
+Selected Publications
 ======
 - **[TC]** [COFFA: A Co-Design Framework for Fused-Grained Reconfigurable Architecture Towards Efficient Irregular Loop Handling.](https://ieeexplore.ieee.org/document/11062918) 
 **Yuan Dai**, Xuchen Gao, Yunhui Qiu, Jingyuan Li, Yuhang Cao, Yiqing Mao, Sichao Chen, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
