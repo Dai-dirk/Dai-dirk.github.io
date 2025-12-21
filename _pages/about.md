@@ -14,6 +14,7 @@ My research interests mainly include:
 - **Reconfigurable Architecture: Hardware**: Coarse-grained reconfigurable architectures (CGRA), Field Programmable Gate Array (FPGA)
 - **Reconfigurable Architecture: Software**: CGRA Compiler (e.g., LLVM-based Front-end, CGRA Mapping), FPGA CAD (e.g., Synthesis flow for DSP block)
 - **Approximate Computing**: Transcendental Function Approximation and Hardware Implementation
+- **System on Chip Design**: CPU-Accelerator System
 
 **I am currently on the job market and open to research and industrial positions in computer architecture and accelerator design.** 
 
@@ -21,7 +22,7 @@ Selected Publication
 ======
 - **[TC]** [COFFA: A Co-Design Framework for Fused-Grained Reconfigurable Architecture Towards Efficient Irregular Loop Handling.](https://ieeexplore.ieee.org/document/11062918) 
 **Yuan Dai**, Xuchen Gao, Yunhui Qiu, Jingyuan Li, Yuhang Cao, Yiqing Mao, Sichao Chen, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
-IEEE Transactions on Computers (TC), 2025.
+IEEE Transactions on Computers, 2025.
 
 - **[TCAD]** [Dependency-Aware Data Parallelism on Spatial CGRA via Constraint Satisfaction and Graph Coloring.](https://ieeexplore.ieee.org/document/11296830) 
 **Yuan Dai**, Xuchen Gao, Huan Lin, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
@@ -45,5 +46,19 @@ International Conference on Field-Programmable Technology (ICFPT), 2021.
 IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2023.
 
 
+Reviewers 
+======
+Secondary Reviewer: JSA'24, CGRA4HPC'24
+
+
+Awards 
+======
+FenJin Scholarship, China (Only 95 recipients nationwide each year)
+
+The First Prize Scholarship, Fudan University.
+
+National Scholarship, China.
+
+"PuXin" Elite Scholarship, Jiangsu Provincial Department of Education.
 
 
