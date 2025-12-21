@@ -35,8 +35,7 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2
 IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024.
 
 - **[ASP-DAC]** [Towards Efficient Data Parallelism on Spatial CGRA via Constraint Satisfaction and Graph Coloring.](https://dl.acm.org/doi/10.1145/3658617.3697544) 
-**Yuan Dai**, Xuchen Gao, Chen Shen, Bingbing Peng, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
-ASP-DAC, 2025.
+**Yuan Dai**, Xuchen Gao, Chen Shen, Bingbing Peng, Wenbo Yin, Wai-Shing Luk, Lingli Wang. Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
 
 - **[FPT]** [APIR-DSP: An Approximate PIR-DSP Architecture for Error-Tolerant Applications.](https://ieeexplore.ieee.org/document/9609927) 
 **Yuan Dai=**, Simin Liu=, Yao Lu=, Hao Zhou, Seyed Ramin Rasoulinezhad, Philip H. W. Leong, Lingli Wang. 
