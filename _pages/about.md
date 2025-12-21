@@ -50,7 +50,7 @@ IEEE International Symposium on Field-Programmable Custom Computing Machines (FC
 
 Talk 
 ======
-**FPT 2025 Fusion SoC Workshop** Served as a lead organizer and coordinated the organization of Fusion SoC Workshop at FPT'25. This [link](https://fpt-2025.lin.pub/) leads to the workshop website, which provides access to our cloud-hosted end-to-end CGRA workflow, including front-end compilation, back-end mapping, and SoC simulation.
+**FPT 2025 Fusion SoC Workshop** Served as a lead organizer and coordinated the organization of the Fusion SoC Workshop at FPT'25. This [link](https://fpt-2025.lin.pub/) leads to the workshop website, which provides access to our cloud-hosted end-to-end CGRA workflow, including front-end compilation, back-end mapping, and SoC simulation.
 
 Review 
 ======
