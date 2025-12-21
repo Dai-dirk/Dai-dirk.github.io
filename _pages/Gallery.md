@@ -7,8 +7,8 @@ layout: single
 ## 2025-03
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="/images/mls.jpg" width="50%">
-  <img src="/images/mlsjp.jpg" width="50%">
+  <img src="/images/mls.jpg" width="48%">
+  <img src="/images/mlsjp.jpg" width="48%">
 </div>
 
 Completed my first half marathon with a time of 2:09. Looking forward to breaking my personal best (PB) in the future!
