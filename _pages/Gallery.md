@@ -8,12 +8,12 @@ layout: single
 ## 2026-01
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="/images/cbs1.jpg" width="50%">
-  <img src="/images/cbs2.jpg" width="50%">
-  <img src="/images/cbs3.jpg" width="50%">
-  <img src="/images/cbs4.jpg" width="50%">
-  <img src="/images/cbs5.jpg" width="50%">
-  <img src="/images/cbs6.jpg" width="50%">
+  <img src="/images/cbs1.JPG" width="50%">
+  <img src="/images/cbs2.JPG" width="50%">
+  <img src="/images/cbs3.JPG" width="50%">
+  <img src="/images/cbs4.JPG" width="50%">
+  <img src="/images/cbs5.JPG" width="50%">
+  <img src="/images/cbs6.JPG" width="50%">
 </div>
 
 During the New Year's Day holiday, my friends and I visited Mount Changbai. What a stunning view!
