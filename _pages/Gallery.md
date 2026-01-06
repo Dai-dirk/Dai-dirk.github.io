@@ -30,9 +30,9 @@ Completed my first half marathon with a time of 2:09. Looking forward to breakin
 ## 2023-05
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="/images/lqs.jpg" width="32%">
-  <img src="/images/lqsjz.jpg" width="32%">
-  <img src="/images/lqsjb.jpg" width="32%">
+  <img src="/images/lqs.jpg" width="25%">
+  <img src="/images/lqsjz.jpg" width="25%">
+  <img src="/images/lqsjb.jpg" width="25%">
 </div>
 
 Together with my labmates, we won third place in the college 3v3 basketball tournament for the second time (last time was at 2021). Congratulations to the whole team!
