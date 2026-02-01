@@ -18,7 +18,7 @@ My research interests mainly include:
 - **Approximate Computing**: Transcendental Function Approximation and Hardware Implementation
 - **System on Chip Design**: CPU-Accelerator Heterogeneous System
 
-**I am currently on the job market and open to research and industrial positions in computer architecture and accelerator design.** 
+**I am currently (2025-2026) on the job market and open to research and industrial positions in computer architecture and accelerator design. If my background matches your needs, please feel free to contact me directly.** 
 
 Selected Publications
 ======
