@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at the State Key Laboratory of Integrated Chips and Systems, Fudan University, supervised by [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) and [Prof. Wai-shing Luk](https://scholar.google.com/citations?hl=zh-CN&user=zVrDetsAAAAJ). I received my B.S. degree in Electronic Information Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA) in 2021, supervised by [Prof. Xin Chen](https://faculty.nuaa.edu.cn/xchen/zh_CN/index.htm). I have published papers as the first author in several top-tier journals and conferences. In addition, I served as a core contributor or technical lead on several industry–academia collaborative projects with leading companies such as Huawei. 
+I am a fifth-year PhD student at the State Key Laboratory of Integrated Chips and Systems, Fudan University, supervised by [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) and [Prof. Wai-shing Luk](https://scholar.google.com/citations?hl=zh-CN&user=zVrDetsAAAAJ). I received my B.S. degree in Electronic Information Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA) in 2021, supervised by [Prof. Xin Chen](https://faculty.nuaa.edu.cn/xchen/zh_CN/index.htm). I have published papers as the first author in several top-tier journals and conferences. In addition, I served as a core contributor or technical lead on several industry–academia collaborative projects with leading companies such as Huawei. 
 
 Most of my work is **open source**, and the repositories are available at [link](https://github.com/Dai-dirk). I enjoy collaborating with others and am committed to making reconfigurable architectures more flexible and widely applicable.
 
@@ -51,9 +51,10 @@ Talk
 ======
 **[FPT 2025] Fusion SoC Workshop:** Served as the initiator and lead organizer, responsible for organizing the Fusion SoC Workshop at FPT'25. This [link](https://fpt-2025.lin.pub/) leads to the workshop website, which provides access to our cloud-hosted end-to-end CGRA workflow, including front-end compilation, back-end mapping, and SoC simulation.
 
-Review 
+Academic Service
 ======
-**Secondary Reviewer:** JSA'24, CGRA4HPC'24
+**Reviewer:** Integration'26
+**Secondary Reviewer:** JSA'24, CGRA4HPC'24,26
 
 
 Awards 
