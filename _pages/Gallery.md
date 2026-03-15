@@ -5,6 +5,17 @@ author_profile: true
 layout: single
 ---
 
+## 2026-03
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="/images/shmls1.jpg" width="32%">
+  <img src="/images/shmls2.jpg" width="32%">
+  <img src="/images/shmls3.jpg" width="32%">
+</div>
+
+Completed the Shanghai Half Marathon with a new PB under two hours (1:54) 🏅
+
+
 ## 2026-01
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
