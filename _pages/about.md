@@ -22,6 +22,10 @@ My research interests mainly include:
 
 Selected Publications
 ======
+- **[ISCA]** [LoRA: Towards Improved Applicability of Reconfigurable Architecture for Versatile Nonlinear Functions.](https://iscaconf.org/isca2026/) 
+**Yuan Dai**, Guibin Zou, Yuanda Yang, Huan Lin, Jianghang Lou, Yiwen Luo, Xinyu Cai, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
+Annual International Symposium on Computer Architecture, 2026.
+
 - **[TC]** [COFFA: A Co-Design Framework for Fused-Grained Reconfigurable Architecture Towards Efficient Irregular Loop Handling.](https://ieeexplore.ieee.org/document/11062918) 
 **Yuan Dai**, Xuchen Gao, Yunhui Qiu, Jingyuan Li, Yuhang Cao, Yiqing Mao, Sichao Chen, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
 IEEE Transactions on Computers, 2025.
@@ -41,7 +45,6 @@ IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024.
 **Yuan Dai=**, Simin Liu=, Yao Lu=, Hao Zhou, Seyed Ramin Rasoulinezhad, Philip H. W. Leong, Lingli Wang. 
 International Conference on Field-Programmable Technology (ICFPT), 2021.
 
-
 - **[FCCM]** [UPTRA: An Ultra-Parameterized Temporal CGRA Modeling and Optimization.](https://ieeexplore.ieee.org/document/10171542)
 **Yuan Dai**, Yunhui Qiu, Qilong Zhu, Jingyuan Li, Wenbo Yin, Lingli Wang. 
 IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2023.
@@ -53,9 +56,9 @@ Talk
 
 Academic Service
 ======
-**Reviewer:** Integration'26
+**Reviewer:** Integration'26; IEEE SSCL'26
 
-**Secondary Reviewer:** JSA'24, CGRA4HPC'24,26
+**Secondary Reviewer:** JSA'24; CGRA4HPC'24,26
 
 
 Awards 
