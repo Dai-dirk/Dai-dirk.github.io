@@ -5,6 +5,11 @@ author_profile: true
 layout: single
 ---
 
+## 2026
+- **LoRA: Towards Improved Applicability of Reconfigurable Architecture for Versatile Nonlinear Functions.** **Yuan Dai**, Guibin Zou, Yuanda Yang, Huan Lin, Jianghang Lou, Yiwen Luo, Xinyu Cai, Wenbo Yin, Wai-Shing Luk, Lingli Wang. Annual International Symposium on Computer Architecture (ISCA), 2026.
+- **An Agile FPGA-Overlayed CGRA SoC for High-Efficiency Computing.** Jiahang Lou, Jianrong Zhang, **Yuan Dai**, Zewei Zhong, Huan Lin, Wenbo Yin, Lingli Wang. IEEE International Symposium on Circuits and Systems (ISCAS), 2026.
+- **MOE: An Efficient Multicasting and One-Hot Encoding Hybrid Configuration Compression Technique for CGRAs.** Hanyu Zhang, **Yuan Dai**, Wenbo Yin, Lingli Wang. IEEE International Symposium on Circuits and Systems (ISCAS), 2026.
+
 ## 2025
 - **Hacking the Pipeline: Enabling Fine-Grain Reconfigurable Acceleration within CPU Cores.** Zhengyi Zhang, Sijing Yang, Sichao Chen, **Yuan Dai**, Wenbo Yin, Lingli Wang. 
 International Conference on Field-Programmable Technology (ICFPT), 2025.
