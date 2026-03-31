@@ -23,7 +23,7 @@ My research interests mainly include:
 Selected Publications
 ======
 - **[ISCA]** [LoRA: Towards Improved Applicability of Reconfigurable Architecture for Versatile Nonlinear Functions.](https://iscaconf.org/isca2026/) 
-**Yuan Dai**, Guibin Zou, Yuanda Yang, Huan Lin, Jianghang Lou, Yiwen Luo, Xinyu Cai, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
+**Yuan Dai\***, Guibin Zou\*, Yuanda Yang, Huan Lin, Jianghang Lou, Yiwen Luo, Xinyu Cai, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
 Annual International Symposium on Computer Architecture, 2026.
 
 - **[TC]** [COFFA: A Co-Design Framework for Fused-Grained Reconfigurable Architecture Towards Efficient Irregular Loop Handling.](https://ieeexplore.ieee.org/document/11062918) 
@@ -42,7 +42,7 @@ IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024.
 **Yuan Dai**, Xuchen Gao, Chen Shen, Bingbing Peng, Wenbo Yin, Wai-Shing Luk, Lingli Wang. Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
 
 - **[FPT]** [APIR-DSP: An Approximate PIR-DSP Architecture for Error-Tolerant Applications.](https://ieeexplore.ieee.org/document/9609927) 
-**Yuan Dai=**, Simin Liu=, Yao Lu=, Hao Zhou, Seyed Ramin Rasoulinezhad, Philip H. W. Leong, Lingli Wang. 
+**Yuan Dai\***, Simin Liu\*, Yao Lu\*, Hao Zhou, Seyed Ramin Rasoulinezhad, Philip H. W. Leong, Lingli Wang. 
 International Conference on Field-Programmable Technology (ICFPT), 2021.
 
 - **[FCCM]** [UPTRA: An Ultra-Parameterized Temporal CGRA Modeling and Optimization.](https://ieeexplore.ieee.org/document/10171542)
