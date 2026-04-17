@@ -23,7 +23,7 @@ My research interests mainly include:
 Selected Publications
 ======
 - **[ISCA]** [LoRA: Towards Improved Applicability of Reconfigurable Architecture for Versatile Nonlinear Functions.](https://iscaconf.org/isca2026/) 
-**Yuan Dai\***, Guibin Zou\*, Yuanda Yang, Huan Lin, Jianghang Lou, Yiwen Luo, Xinyu Cai, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
+**Yuan Dai**, Guibin Zou, Yuanda Yang, Huan Lin, Jianghang Lou, Yiwen Luo, Xinyu Cai, Wenbo Yin, Wai-Shing Luk, Lingli Wang. 
 Annual International Symposium on Computer Architecture, 2026.
 
 - **[TC]** [COFFA: A Co-Design Framework for Fused-Grained Reconfigurable Architecture Towards Efficient Irregular Loop Handling.](https://ieeexplore.ieee.org/document/11062918) 
@@ -56,9 +56,9 @@ Talk
 
 Academic Service
 ======
-**Reviewer:** Integration'26; IEEE SSCL'26
+**Reviewer:** Integration'26; IEEE SSCL'26; IEEE TCAD'26, ACM TRETS'26
 
-**Secondary Reviewer:** JSA'24; CGRA4HPC'24,26
+**Secondary Reviewer:** JSA'24; CGRA4HPC'24,26; FPL'26
 
 
 Awards 
