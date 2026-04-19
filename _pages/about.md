@@ -56,9 +56,9 @@ Talk
 
 Academic Service
 ======
-**Reviewer:** Integration'26; IEEE SSCL'26; IEEE TCAD'26, ACM TRETS'26
+**Reviewer:** Integration; IEEE SSCL; IEEE TCAD, ACM TRETS
 
-**Secondary Reviewer:** JSA'24; CGRA4HPC'24,26; FPL'26
+**Secondary Reviewer:** JSA; CGRA4HPCA; FPL
 
 
 Awards 
