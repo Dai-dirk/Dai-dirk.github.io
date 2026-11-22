@@ -10,7 +10,7 @@ layout: single
 <div class="gallery-grid" markdown="0">
   <a href="/images/dxal1.jpg"><img src="/images/dxal1.jpg" alt="Greater Khingan Mountains 1"></a>
   <a href="/images/dxal2.jpg"><img src="/images/dxal2.jpg" alt="Greater Khingan Mountains 2"></a>
-  <a href="/images/dxal3.jpg"><img src="/images/shmls3.jpg" alt="Greater Khingan Mountains 3"></a>
+  <a href="/images/dxal3.jpg"><img src="/images/dxal3.jpg" alt="Greater Khingan Mountains 3"></a>
   <a href="/images/dxal4.jpg"><img src="/images/dxal4.jpg" alt="Greater Khingan Mountains 4"></a>
   <a href="/images/dxal5.jpg"><img src="/images/dxal5.jpg" alt="Greater Khingan Mountains 5"></a>
   <a href="/images/dxal6.jpg"><img src="/images/dxal6.jpg" alt="Greater Khingan Mountains 6"></a>
