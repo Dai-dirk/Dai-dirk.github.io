@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student at the State Key Laboratory of Integrated Chips and Systems, Fudan University, supervised by [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) and [Prof. Wai-shing Luk](https://scholar.google.com/citations?hl=zh-CN&user=zVrDetsAAAAJ). I received my B.S. degree in Electronic Information Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA) in 2021, supervised by [Prof. Xin Chen](https://faculty.nuaa.edu.cn/xchen/zh_CN/index.htm). I have published papers as the first author in several top-tier journals and conferences. In addition, I served as a core contributor or technical lead on several industry–academia collaborative projects with leading companies such as Huawei. 
+I’m currently a chip architecture engineer on XPeng’s Turing chip team, working on next-generation compute chips. I received my PhD from Fudan University in 2026, where I worked at the State Key Laboratory of Integrated Chips and Systems, under the supervision of [Prof. Lingli Wang](https://sme.fudan.edu.cn/60/3c/c31155a352316/page.htm) and [Prof. Wai-shing Luk](https://scholar.google.com/citations?hl=zh-CN&user=zVrDetsAAAAJ). I received my B.S. degree in Electronic Information Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA) in 2021, supervised by [Prof. Xin Chen](https://faculty.nuaa.edu.cn/xchen/zh_CN/index.htm). I have published papers as the first author in several top-tier journals and conferences. In addition, I served as a core contributor or technical lead on several industry–academia collaborative projects with leading companies such as Huawei. 
 
 Most of my work is **open source**, and the repositories are available at [link](https://github.com/Dai-dirk). I enjoy collaborating with others and am committed to making reconfigurable architectures more flexible and widely applicable.
 
@@ -15,10 +15,10 @@ My research interests mainly include:
 
 - **Reconfigurable Architecture: Hardware**: Coarse-grained reconfigurable architectures (CGRA), Field Programmable Gate Array (FPGA)
 - **Reconfigurable Architecture: Software**: CGRA Compiler (e.g., LLVM-based Front-end, CGRA Mapping), FPGA CAD (e.g., Synthesis flow for DSP block)
-- **Approximate Computing**: Transcendental Function Approximation and Hardware Implementation
+- **Approximate Computing**: Transcendental Function Approximation and Hardware Implementation, Approximation Multiplier
 - **System on Chip Design**: CPU-Accelerator Heterogeneous System
 
-**I am currently (2025-2026) on the job market and open to research and industrial positions in computer architecture and accelerator design. If my background matches your needs, please feel free to contact me directly.** 
+
 
 Selected Publications
 ======
@@ -42,7 +42,7 @@ IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024.
 **Yuan Dai**, Xuchen Gao, Chen Shen, Bingbing Peng, Wenbo Yin, Wai-Shing Luk, Lingli Wang. Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
 
 - **[FPT]** [APIR-DSP: An Approximate PIR-DSP Architecture for Error-Tolerant Applications.](https://ieeexplore.ieee.org/document/9609927) 
-**Yuan Dai\***, Simin Liu\*, Yao Lu\*, Hao Zhou, Seyed Ramin Rasoulinezhad, Philip H. W. Leong, Lingli Wang. 
+**Yuan Dai**, Simin Liu, Yao Lu, Hao Zhou, Seyed Ramin Rasoulinezhad, Philip H. W. Leong, Lingli Wang. 
 International Conference on Field-Programmable Technology (ICFPT), 2021.
 
 - **[FCCM]** [UPTRA: An Ultra-Parameterized Temporal CGRA Modeling and Optimization.](https://ieeexplore.ieee.org/document/10171542)
@@ -63,6 +63,8 @@ Academic Service
 
 Awards 
 ======
+Shanghai Outstanding Graduate
+
 Huawei "Fenjin" Scholarship, China (Only 95 recipients nationwide each year).
 
 The First Prize Scholarship, Fudan University.
@@ -73,6 +75,6 @@ National Scholarship, China.
 
 Contact
 ======
-**Email:** daiy21@m.fudan.edu.cn
+**Email:** daiyuan41@gmail.com
 
 
