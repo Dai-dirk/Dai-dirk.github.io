@@ -1,0 +1,27 @@
+/* Gallery grid for photo albums */
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+  margin: 1em 0;
+
+  a {
+    display: block;
+    overflow: hidden;
+    border-radius: $border-radius;
+  }
+
+  img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: $border-radius;
+    transition: transform 0.3s ease;
+  }
+
+  a:hover img,
+  a:focus img {
+    transform: scale(1.03);
+  }
+}
