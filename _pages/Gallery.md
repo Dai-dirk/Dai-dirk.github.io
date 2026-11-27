@@ -19,7 +19,7 @@ layout: single
   <a href="/images/dxal9.jpg"><img src="/images/dxal9.jpg" alt="Greater Khingan Mountains 9"></a>
 </div>
 
-During the National Day holiday, my friend and I visited the Greater Khingan Mountains—what beautiful scenery and what a wonderful time!
+During the National Day holiday, my friend and I and Rachel 🐷❤️ visited the Greater Khingan Mountains—what beautiful scenery and what a wonderful time!
 
 ## 2026-03
 
@@ -43,7 +43,7 @@ Completed the Shanghai Half Marathon with a new PB under two hours (1:54) 🏅
   <a href="/images/cbs6.JPG"><img src="/images/cbs6.JPG" alt="Mount Changbai 6"></a>
 </div>
 
-During the New Year's Day holiday, my friends and I visited Mount Changbai. What a stunning view!
+During the New Year's Day holiday, my friend and I and Rachel 🐷❤️ visited Mount Changbai. What a stunning view!
 
 ## 2025-03
 
